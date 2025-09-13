@@ -7,7 +7,7 @@ From **Core Java internals** to **HTML/CSS/JS**, **AI**, **Cloud**, & **Infrastr
 ---
 
 ## 🛠️ Tech Arsenal
-- **Languages:** Java, HTML, CSS, JavaScript(Basic)
+- **Languages:** Java, HTML, CSS, JavaScript (Basic)
 - **Core Expertise:** Core Java internals, OOPs, DSA, JVM, Collections, Concurrency
 - **Extras:** AI fundamentals, Cloud Foundations, Infrastructure, OS concepts
 - **Style:** Dry‑run tables, pitfalls, gold‑standard notes, and a pinch of stand‑up comedy 🎭
@@ -15,7 +15,7 @@ From **Core Java internals** to **HTML/CSS/JS**, **AI**, **Cloud**, & **Infrastr
 ---
 
 ## 📂 Featured Repos
-- [**Core-Java-Deep-Dive**](https://github.com/AmanSah078/Core-Java-Deep-Dive-With-Analogy-Explanations) – Heavy Core Java concepts with analogies & runnable code  
+- [**Core-Java-Deep-Dive-With-Analogy-Explanations**](https://github.com/AmanSah078/Core-Java-Deep-Dive-With-Analogy-Explanations) – Heavy Core Java concepts with analogies & runnable code  
 - [**Java-DSA-Prep**](https://github.com/AmanSah078/Java-DSA-Prep) – Daily DSA problems with dry‑runs & explanations
 
 ---
@@ -27,17 +27,17 @@ From **Core Java internals** to **HTML/CSS/JS**, **AI**, **Cloud**, & **Infrastr
 - Applied Core Java features: Inheritance, Static/Non-static Members, Methods, Blocks, Packages, Exception Handling.
 - Stored and updated records using Java File Handling.
 
-### ☁ Weather Alert System | HTML5, CSS3, JavaScript, Bootstrap, React.js, Node.js
+### ☁ Weather Alert System | HTML5, CSS3, JavaScript (Basic), Bootstrap, React.js, Node.js
 - Developed a real-time weather alert app with location-based updates.
 - Integrated OpenWeatherMap API with JavaScript and Node.js to fetch live data.
 - Designed mobile-responsive UI using Bootstrap.
 
-### 📱 Responsive UI Templates | HTML5, CSS3, JavaScript, Bootstrap
+### 📱 Responsive UI Templates | HTML5, CSS3, JavaScript (Basic), Bootstrap
 - Created responsive templates for Pizza Shop, Coffee Shop, Medicine Shop, and Library websites.
 - Applied semantic HTML5, CSS3 animations, and Bootstrap for clean layouts.
 - Ensured responsiveness using media queries and mobile-first design.
 
-### ✅ Team Task Manager (Hackathon) | HTML5, CSS3, JavaScript, React.js, Node.js
+### ✅ Team Task Manager (Hackathon) | HTML5, CSS3, JavaScript (Basic), React.js, Node.js
 - Built web-based task tracker during a 30-hour college hackathon.
 
 ---
@@ -55,7 +55,6 @@ From **Core Java internals** to **HTML/CSS/JS**, **AI**, **Cloud**, & **Infrastr
 ## 📅 Current Mission
 - Upload **Java DSA problem daily** with optimized solution + dry‑run  
 - Build a **legacy‑ready Core Java repo** for juniors & recruiters
-  
 
 ---
 
