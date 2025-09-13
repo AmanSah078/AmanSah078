@@ -2,14 +2,14 @@
 
 ## 🎯 About Me
 I'm a clarity‑obsessed **Java & DSA mentor** ☕ who loves turning heavy concepts into “samajh aa gaya bhai” moments.  
-From **Core Java internals** to **HTML/CSS/JS**, **AI**, **Cloud**, & **Infrastructure** — I teach, code & entertain with real‑life analogies, memes, and runnable examples.
+From **Core Java internals** to **HTML,CSS,JavaScript(Basic)**, **AI**, **Cloud**, & **Infrastructure** — I teach, code & entertain with real‑life analogies, memes, and runnable examples.
 
 ---
 
 ## 🛠️ Tech Arsenal
 - **Languages:** Java, HTML, CSS, JavaScript (Basic)
 - **Core Expertise:** Core Java internals, OOPs, DSA, JVM, Collections, Concurrency
-- **Extras:** AI fundamentals, Cloud Foundations, Infrastructure, OS concepts
+- **Extras:** Bootstrap, AI fundamentals, Cloud Foundations, Infrastructure, OS concepts
 - **Style:** Dry‑run tables, pitfalls, gold‑standard notes, and a pinch of stand‑up comedy 🎭
 
 ---
@@ -44,12 +44,16 @@ From **Core Java internals** to **HTML/CSS/JS**, **AI**, **Cloud**, & **Infrastr
 
 ## 🏆 Achievements & Certificates
 - 🏅 **Debate Competitions**  
-   • 1st Prize – Independence Day 2024, Republic Day 2025, Inter-Department 2023  
-   • Finalist – College Fest 2024  
-- 🎤 **Best Presenter** – Poster Presentation on *Metaverse*, 2025  
-- 💡 **Hackathon Project** – Team *Task Manager*, 30-hour Hackathon, March 2025  
-- ☁ **Oracle Cloud Infrastructure** – AI Foundations Certification
+   🎯 1st Prize – Independence Day 2024, Republic Day 2025, Inter‑Department 2023  
+   🏆 Finalist – College Fest 2024  
 
+- 🎤 **Best Presenter** – Poster Presentation on *Metaverse*, 2025  
+
+- 💡 **Hackathon Project** – Team *Task Manager*, 30‑hour Hackathon, March 2025  
+
+- ☁ **Oracle Cloud Infrastructure – AI Foundations** (Certified)  
+   📚 Gained foundational expertise in **AI/ML concepts**, **OCI AI & ML services**, **model deployment workflows**, and **Responsible AI principles**  
+   🤖 Covered **Generative AI fundamentals**, **OCI AI Stack**, and hands‑on with AI service APIs *(Language, Vision, Document Understanding, Speech)*
 ---
 
 ## 📅 Current Mission
