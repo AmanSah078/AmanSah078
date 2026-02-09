@@ -17,6 +17,7 @@ From **Core Java internals** to **HTML,CSS,JavaScript(Basic)**, **AI**, **Cloud*
 ## 📂 Featured Repos
 - [**Core-Java-Deep-Dive-With-Analogy-Explanations**](https://github.com/AmanSah078/Core-Java-Deep-Dive-With-Analogy-Explanations-) – Heavy Core Java concepts with analogies & runnable code  
 - [**Java-DSA-Prep**](https://github.com/AmanSah078/Java-DSA-Prep) – Daily DSA problems with dry‑runs & explanations
+- [9-Days DSA Consistency Challenge](https://github.com/AmanSah078/9-Days-DSA-CHALLNEGE)
 
 ---
 
