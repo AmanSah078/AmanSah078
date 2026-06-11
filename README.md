@@ -88,5 +88,5 @@ I focus on simplifying complex concepts into practical implementations — combi
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aman-ali-82053a2b8/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aman-sah-82053a2b8/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/AmanSah078)
