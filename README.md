@@ -12,10 +12,10 @@ Currently deepening my Machine Learning foundations through Kaggle competitions 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, Python, JavaScript, HTML, CSS, SQL
+- **Languages:** Java, Python
 - **Backend:** Spring Boot, Spring Data JPA, Spring Security, Spring AOP, Spring Data REST, Spring Validation, Hibernate, JDBC, Servlets, JSP
 - **Architecture:** MVC, Layered Architecture (Controller–Service–Repository), REST APIs
-- **Database:** MySQL
+- **Database:** MySQL,JDBC
 - **Core CS:** Data Structures & Algorithms, OOPs, JVM, Collections
 - **Generative AI:** LLM APIs (OpenAI, Cohere, DeepSeek), Prompt Engineering, RAG, LangChain Fundamentals, Fine-tuning, Embeddings
 - **Data Science:** Python, Pandas, NumPy, Scikit-learn, EDA, Statistics & Probability, Regression Modeling
