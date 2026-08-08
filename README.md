@@ -1,108 +1,163 @@
-# Hey there, I'm Aman 👋
+<div align="center">
 
-## 🎯 About Me
+# Hey, I'm Aman Sah 👋
 
-I'm a **Backend Developer (Java) & AI Engineer** ☕🤖 currently working as a **Backend AI Engineer Intern at FlyRank**, where I blend **Core Java, Spring Boot backend engineering** with hands-on **Generative AI integration** — Prompt Engineering, RAG, and LangChain.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Backend+Developer+(Java)+%7C+AI+Engineer;Spring+Boot+%2B+LLM+Engineering+%2B+Data+Science;Turning+Real+Problems+Into+Deployed+AI+Systems" alt="Typing SVG" />
 
-I've built and deployed a real-world AI system that was **selected by the UBA Group** for field use across multiple rural schools — turning prototypes into things that actually reach people. I enjoy simplifying complex concepts into practical implementations, combining solid backend fundamentals with intelligent, AI-powered features.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sah-82053a2b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanSah078)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanalisiwan22@gmail.com)
 
-Currently deepening my Machine Learning foundations through Kaggle competitions and applied regression modeling, backed by 100+ DSA problems solved through daily practice.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Java, Python
-- **Backend:** Spring Boot, Spring Data JPA, Spring Security, Spring AOP, Spring Data REST, Spring Validation, Hibernate, JDBC, Servlets, JSP
-- **Architecture:** MVC, Layered Architecture (Controller–Service–Repository), REST APIs
-- **Database:** MySQL,JDBC
-- **Core CS:** Data Structures & Algorithms, OOPs, JVM, Collections
-- **Generative AI:** LLM APIs (OpenAI, Cohere, DeepSeek), Prompt Engineering, RAG, LangChain Fundamentals, Fine-tuning, Embeddings
-- **Data Science:** Python, Pandas, NumPy, Scikit-learn, EDA, Statistics & Probability, Regression Modeling
-- **Frontend:** HTML5, CSS3, JavaScript, Node.js, Express.js
-- **Tools:** Git, GitHub, Eclipse, IntelliJ IDEA, VS Code, Postman, Jupyter Notebook
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 🎯 What I Bring
 
-### 🎓 GenZERA — Student Skill Ecosystem & Mentorship Platform *(In Progress)*
-`Java` `Spring Boot` `Spring Security` `Hibernate` `MySQL` `Node.js/Express`
-- Building a role-based student ecosystem platform for mentorship, learning resources, and academic services.
-- Implemented JWT-based authentication with role-based access control across 3 user roles (Student, Mentor, Admin) using Spring Security within a layered architecture.
-- Developing a dedicated Node.js/Express microservice for file upload functionality, integrated with the main Spring Boot backend.
+I don't just write code that runs — I build things that get **used**. My AI-powered career guidance platform was selected by the **UBA Group** and deployed live across multiple rural schools, turning a classroom project into real-world impact for students who needed it.
 
-### 🌍 Enlightening Rural Schools & Young Minds — AI-Powered Career Guidance
-`Python` `OpenAI API` `Cohere API` `DeepSeek` `Prompt Engineering` `Fine-tuning`
-- Fine-tuned and trained an AI career-guidance system on domain-specific data using OpenAI, Cohere, and DeepSeek APIs.
-- **Selected by the UBA Group** for real-world deployment and demonstrated live across multiple rural schools.
-- Engineered prompt flows for personalized career paths, exam-prep guidance, and learning roadmaps for students.
+Currently a **Backend AI Engineer Intern at FlyRank**, where I combine solid **Java + Spring Boot backend engineering** with hands-on **Generative AI engineering** (RAG, LangChain, Prompt Engineering) — I build the systems *and* make them intelligent.
 
-### 🌾 Agriculture Assistance System *(Ongoing)*
-`Java` `MySQL` `Spring Boot` `Cohere API`
-- Building a smart agriculture system providing crop recommendations based on seasonal conditions.
-- Integrated an LLM-based chatbot for conversational assistance with a context-aware response system using prompt engineering and structured JSON outputs.
-- Focused on real-world usability and accessibility for end users.
-
-### 📊 Machine Learning Practice — Kaggle & Regression Modeling
-`Python` `Pandas` `NumPy` `Scikit-learn`
-- Built a Simple Linear Regression model to predict house prices based on key property features.
-- Built a Multiple Linear Regression model on the 50 Startups dataset to predict company profit using R&D spend, administration cost, marketing spend, and state as features.
-- Participating in the Kaggle Playground Series (Predicting Student Health Risk) to strengthen applied ML skills.
-
-### 🏗️ Layered Architecture Practice Projects
-`Java` `Spring Boot` `Eclipse` `MVC`
-- Built 5+ standalone practice applications implementing Controller–Service–Repository layered architecture and MVC design patterns.
-- Practiced clean separation between business logic, data access, and presentation layers.
+- 🔭 Building **GenZERA** — a role-based student ecosystem platform (Spring Boot + Spring Security + Hibernate)
+- 🌾 Building an **Agriculture Assistance System** with an LLM-powered conversational advisor
+- 📊 Sharpening ML fundamentals through **Kaggle competitions** and applied regression modeling
+- 🧩 100+ DSA problems solved and counting, daily
+- 🌱 Deepening the Spring ecosystem: Spring Security, Spring AOP, Spring Data REST, Spring Validation
 
 ---
 
-## 📦 Other Projects
+### 🛠️ Tech Stack
 
-- **PDF-based Chatbot (RAG)** — `Python` `LLM APIs` — Chatbot retrieving and answering queries from PDF documents using embeddings and retrieval-based context.
-- **E-commerce Chatbot** — `Cohere API` — Handled user queries in e-commerce scenarios using structured, context-based prompts.
-- **Bank Management System** — `Java` `MySQL` `JDBC` — Console-based banking system with deposit, withdrawal, and balance features.
-- **Weather Alert System** — `HTML` `CSS` `JavaScript` — Real-time weather application with responsive UI and API integration.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,git,github,idea,vscode,postman,nodejs,express" />
+
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**Backend**
+- Spring Boot, Spring Data JPA
+- Spring Security, Spring AOP
+- Spring Data REST, Spring Validation
+- Hibernate, JDBC, Servlets, JSP
+- REST APIs, MVC, Layered Architecture
+
+</td>
+<td valign="top" width="33%">
+
+**AI Engineering**
+- LLM APIs (OpenAI, Cohere, DeepSeek)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- LangChain Fundamentals
+- Fine-tuning, Embeddings
+
+</td>
+<td valign="top" width="33%">
+
+**Data Science**
+- Python, Pandas, NumPy
+- Scikit-learn, Regression Modeling
+- Exploratory Data Analysis (EDA)
+- Statistics & Probability
+- Jupyter Notebook
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 DSA & Learning Journey
+### 🚀 Featured Work
 
-- Solved **100+ Data Structures & Algorithms problems** in Java, consistently uploading solutions to a public GitHub repository.
-- Covering Arrays, Strings, Binary Search, Recursion, and HashMaps — building toward Trees, Graphs, and Dynamic Programming next.
-- Maintaining consistency through structured, daily problem-solving practice.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌍 Enlightening Rural Schools & Young Minds**
+*AI-Powered Career Guidance*
+
+Fine-tuned an AI career-guidance system using OpenAI, Cohere, and DeepSeek APIs. **Selected by the UBA Group** and demoed live across multiple rural schools.
+
+`Python` `OpenAI API` `Cohere API` `Prompt Engineering`
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 GenZERA** *(In Progress)*
+*Student Skill Ecosystem & Mentorship Platform*
+
+Role-based platform (Student/Mentor/Admin) with JWT auth via Spring Security, and a Node.js/Express microservice for file uploads.
+
+`Java` `Spring Boot` `Spring Security` `Hibernate`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌾 Agriculture Assistance System** *(Ongoing)*
+*Smart Crop Recommendation + AI Chatbot*
+
+LLM-powered conversational assistant with context-aware, structured JSON responses for crop recommendations.
+
+`Java` `Spring Boot` `MySQL` `Cohere API`
+
+</td>
+<td width="50%" valign="top">
+
+**📊 ML Practice — Kaggle & Regression**
+*Applied Machine Learning*
+
+Simple & Multiple Linear Regression (House Price, 50 Startups dataset). Actively competing in Kaggle's Playground Series.
+
+`Python` `Pandas` `Scikit-learn` `Kaggle`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📦 More Projects</b></summary>
+<br>
+
+- **Layered Architecture Practice** — 5+ standalone apps applying Controller–Service–Repository patterns in Spring Boot
+- **Daily DSA Practice** — Public repo of 100+ solved problems, updated consistently
+- **PDF-based Chatbot (RAG)** — Document Q&A using embeddings and retrieval-based context
+- **E-commerce Chatbot** — Context-aware query handling with Cohere API
+- **Bank Management System** — Console-based banking app with JDBC + MySQL
+- **Weather Alert System** — Real-time weather app with responsive UI
+
+</details>
 
 ---
 
-## 🏆 Achievements & Certifications
+### 📈 GitHub Stats
 
-- 🥇 **1st Prize — Sparkle 2K26 National Innovation Event** (AI Project, App Development, Ideapreneur, Hackathon categories)
-- 🥇 **1st Prize — 4th Odisha Wildlife Conclave** (Project Presentation)
-- 🥇 **1st Prize — Inter-Department Debate Competitions** (2023 – 2025)
-- 🎤 **Best Presenter — Metaverse Presentation** (2025)
-- 💡 Built a Team Task Manager during a 30-hour hackathon
-- ☁️ **Oracle Cloud Infrastructure (OCI) AI Foundations Associate** — Oracle Certified
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanSah078&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSah078&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 🎯 Current Focus
+### 🏆 Achievements
 
-- 💼 Working as a **Backend AI Engineer Intern at FlyRank**
-- 🏗️ Deepening the **Spring ecosystem** — Spring Security, Spring AOP, Spring Data REST, Spring Validation
-- 🧠 Strengthening **Machine Learning fundamentals** through Kaggle and applied regression projects
-- 🧩 Solving **DSA problems daily**, working toward advanced topics
-- 🤖 Exploring **Generative AI + backend integration** at a deeper level
-
----
-
-## 😂 Fun Fact
-
-> Sometimes debugging feels like talking to the JVM: *"Bhai error bata de seedha!"* 😄
+| | |
+|---|---|
+| 🥇 | **Sparkle 2K26 National Innovation Event** — 1st Prize (AI Project, App Dev, Ideapreneur, Hackathon) |
+| 🥇 | **4th Odisha Wildlife Conclave** — 1st Prize, Project Presentation |
+| 🥇 | **Inter-Department Debate Competitions** (2023–2025) — 1st Prize |
+| 🎤 | **Metaverse Presentation 2025** — Best Presenter |
+| ☁️ | **Oracle Cloud Infrastructure (OCI) AI Foundations** — Associate Certified |
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aman-sah-82053a2b8/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/AmanSah078)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:amanalisiwan22@gmail.com)
+*"Bhai error bata de seedha!" — me, every time the JVM throws a stack trace* 😄
+
+</div>
